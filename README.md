@@ -16,6 +16,8 @@ Project Overview
 - MySQL Connector: For connecting Python to MySQL and inserting scraped data into the database.
 - Tableau: For visualizing and analyzing data.
 
+## Visualizations
+
 ![Visualization 1](Images/movieImage_1.png)
 ![Visualization 2](Images/movieImage_2.png)
 ![Visualization 3](Images/movieImage_3.png)
