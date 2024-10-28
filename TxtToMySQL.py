@@ -1,7 +1,6 @@
 import mysql.connector
 
 def FetchFromTable(tableName, tableCellValue):
-    # Use a parameterized query for the cell value
     query = f"SELECT id FROM {tableName} WHERE name = %s"
     cursor.execute(query, (tableCellValue,))
     fetched_result = cursor.fetchone()
