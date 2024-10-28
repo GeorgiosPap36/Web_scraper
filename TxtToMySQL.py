@@ -29,8 +29,8 @@ def CreateTableIfNotExists(tableName):
 
 db = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="Papapostolou7&",
+    user="foo",
+    password="foo",
     database="Movies"
 )
 
