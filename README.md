@@ -1,7 +1,6 @@
 # Web Scraper for IMDB Top 250 Movies
 
 This project is a web scraper that collects detailed information on the top 250 movies from IMDb and organizes the data into a MySQL database. The gathered data includes each movie’s name, IMDb score, release year, age rating, production country, director, and budget. Finally, the data is visualized in Tableau, providing insights into the IMDb Top 250.
-Project Overview
 
 ## The project is divided into the following stages:
 
